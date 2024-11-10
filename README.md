@@ -8,4 +8,4 @@
 - 😄 Pronouns: She / Her / Hers
 - ⚡ Fun fact: I love to swim and I swam Division I in college!
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-hacker
