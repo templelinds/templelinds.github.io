@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Lindsay!
 <img src="https://github.com/user-attachments/assets/981c7d07-868b-4d88-abb2-e7ebdff56136" width="150" height="150"> 
+
 I'm a driven data science and analytics professional with expertise in data management, analysis, and visualization within diverse environments. I'm a self-starter with proven ability to take on critical projects and identify opportunities for automation and efficiency. I'm also a former elite athlete and Ivy League champion with self-discipline and a competitive spirit. Finally, I'm an effective communicator skilled in liaising and presenting to clients, internal teams, and executives. 
 
 Some quick facts about me:
