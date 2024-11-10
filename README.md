@@ -8,7 +8,4 @@
 - 😄 Pronouns: She / Her / Hers
 - ⚡ Fun fact: I love to swim and I swam Division I in college!
 
-<!---
-templelinds/templelinds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+theme: Architect
